@@ -1,0 +1,5 @@
+Esta aplicación permite comprobar una estructura de ficheros proporcionada mediante un fichero txt.
+
+La aplicación está siendo utilizada para validar la entrega de prácticas de la asignatura de Programación Orientada a Objetos de los grados de Ingeniería Informática y Matemáticas de la Universidad de La Rioja. 
+
+El ejecutable se puede descargar de la carpeta dist que contiene ejemplos de estructuras de ficheros a validar. 

@@ -1,0 +1,6 @@
+/Practica07/Parte01/C++/OrdenMatricula.cpp
+/Practica07/Parte01/C++/Tipo.cpp
+/Practica07/Parte01/C++/Curso.cpp
+/Practica08/Parte01/C++/OrdenMatricula.cpp
+/Practica08/Parte01/C++/Tipo.cpp
+/Practica08/Parte01/C++/Curso.cpp
